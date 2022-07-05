@@ -35,3 +35,7 @@ header a {
 .social li a {
   color: #fff;
 }
+.navbar-nav a {
+  text-decoration: none;
+  color: #696e77;
+}
