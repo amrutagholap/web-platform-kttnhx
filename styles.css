@@ -79,3 +79,7 @@ header a {
   background-color: var(--insur-white) !important;
  
 }
+.caraousel{
+ height: 680px;
+ background: url(https://github.com/amrutagholap/web-platform-kttnhx/blob/main/src/images/main-slider-1-1.jpg?raw=true);
+}
