@@ -38,8 +38,7 @@ header a {
 .navbar-nav a {
   text-decoration: none;
   color: #696e77;
-  background-color: #f2f5f9;
-  border-radius: 4px;
+  border-radius: 8px 0 0 8px;
 }
 .bg-light {
   background-color: #fff!important;
@@ -48,5 +47,35 @@ header a {
   padding: 30px 0;
 }
 .nav-link{
-  padding: 18px 24px;
+  padding: 18px 24px !important;
+  background-color: #f2f5f9;
+  border: 8px 0 8px 0;
+}
+.logo{
+  margin-right: 44px;
+}
+.quote{
+  color: #fff !important;
+}
+.phon-icon{
+  color: #0dcaf0;
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  line-height: 55px;
+  border: 2px solid #97a2b7;
+  text-align: center;
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+.phone{
+  color: #16243d;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+.dropdown-menu{
+  background-color: var(--insur-white) !important;
+ 
 }
