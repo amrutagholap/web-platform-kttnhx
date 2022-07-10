@@ -90,11 +90,22 @@ header a {
   line-height: 80px;
   letter-spacing: -0.04em;
   right: 30%;
-  bottom: 280px;
 }
 
 .carousel-item{
   height: 680px;
+}
+
+.carousel-caption {
+  left: 10%;
+  top: 100px;
+  text-align: left;
+}
+.carousel-caption p{
+  color: #16243d;
+  position: absolute;
+  font-size: 18px;
+  
 }
 
 .item-1{
