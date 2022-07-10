@@ -92,11 +92,6 @@ header a {
   right: 30%;
   bottom: 280px;
 }
-p{
-  position: absolute;
-  bottom: 200px;
-  color: #16243d;
-}
 
 .carousel-item{
   height: 680px;
