@@ -87,6 +87,7 @@ header a {
 .carousel {
   height: 680px;
   overflow: hidden;
+  margin-bottom: 80px;
 }
 
 .carousel-caption h2 {
