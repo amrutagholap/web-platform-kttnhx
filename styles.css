@@ -160,12 +160,15 @@ header a {
   font-weight: 700;
   margin-bottom: 30px;
 }
+.right-section-img{
+  height: 489px;
+}
 .left-section p {
   font-size: 24px;
   font-weight: 500;
   line-height: 40px;
   color: #015fc9;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 .left-bottom {
   margin-top: 50px;
@@ -179,4 +182,8 @@ header a {
 .left-bottom .fa-solid {
   color: #0dcaf0;
   padding-right: 15px;
+}
+.left-section h6{
+  font-size: 18px;
+  line-height: 30px;
 }
