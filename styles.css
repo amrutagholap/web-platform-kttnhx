@@ -152,15 +152,29 @@ header a {
   border-radius: 30px;
   margin-bottom: 120px;
 }
+.about-caption {
+  position: absolute;
+  height: 350px;
+  bottom: -1150px;
+  left: 80px;
+}
+.right-section-img {
+  border-radius: 30px;
+}
+.right-section-img-2 {
+  border-radius: 30px;
+}
+
 .left-section {
   margin-left: 150px;
+  margin-bottom: 80px;
 }
 .left-section h2 {
   font-size: 45px;
   font-weight: 700;
-  margin-bottom: 30px;
+  margin-bottom: 25px;
 }
-.right-section-img{
+.right-section-img {
   height: 489px;
 }
 .left-section p {
@@ -168,7 +182,7 @@ header a {
   font-weight: 500;
   line-height: 40px;
   color: #015fc9;
-  margin-bottom: 40px;
+  margin-bottom: 27px;
 }
 .left-bottom {
   margin-top: 50px;
@@ -183,7 +197,34 @@ header a {
   color: #0dcaf0;
   padding-right: 15px;
 }
-.left-section h6{
+.left-section h6 {
   font-size: 18px;
   line-height: 30px;
+  margin-bottom: 20px;
+}
+.left-section .btn-primary2 {
+  background-color: #015fc9 !important;
+  padding: 20px 40px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+}
+/* our services start here */
+.left {
+  margin-left: 290px;
+}
+.our-serv {
+  margin-top: 50px;
+  padding-top: 100px;
+  background-color: #f2f5f9;
+  padding-bottom: 90px;
+}
+.our-services-right {
+  margin-bottom: 50px;
+}
+.card {
+  margin-right: 30px;
+}
+.second-section {
+  margin-top: 30px;
 }
