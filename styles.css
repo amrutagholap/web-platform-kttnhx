@@ -228,3 +228,46 @@ header a {
 .second-section {
   margin-top: 30px;
 }
+/* why chhose start here*/
+.right-content {
+  padding-top: 120px;
+  margin-bottom: 80px;
+}
+.right-content h1 {
+  margin-bottom: 30px;
+}
+.right-content p {
+  margin-bottom: 30px;
+}
+.card-card {
+  width: 250px;
+  height: 154px;
+  margin-right: 20px;
+  padding-bottom: 20px;
+  background-color: #16243d;
+  color: #ffffff;
+}
+.card-card h5 {
+  padding: 55px;
+}
+.card-1 {
+  margin-top: 30px;
+}
+.left-content-img {
+  width: 797px;
+  height: 825px;
+}
+
+/* free quote start here */
+
+.free-quote {
+  margin-top: 30px;
+  background-color: #e0e4e8;
+  padding: 50px;
+}
+.girl {
+  height: 848px;
+}
+.left-sec {
+  margin-left: 80px;
+}
