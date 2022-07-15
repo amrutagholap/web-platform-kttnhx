@@ -261,7 +261,6 @@ header a {
 /* free quote start here */
 
 .free-quote {
-  margin-top: 30px;
   background-color: #e0e4e8;
   padding: 50px;
 }
@@ -270,4 +269,27 @@ header a {
 }
 .left-sec {
   margin-left: 80px;
+}
+.left-sec h1{
+  margin-bottom: 40px;
+}
+.btn-primary1{
+  font-size: 14px;
+  font-weight: 700;
+  background-color: #015fc9 !important;
+  padding: 20px 40px;
+  color: #ffffff !important;
+  margin-bottom: 50px;
+}
+.btn-primary2{
+  font-size: 14px;
+  font-weight: 700;
+  background-color: #16243d !important;
+  padding: 20px 40px;
+  color: #ffffff !important;
+  margin-bottom: 50px;
+}
+/* form start here */
+.form-control{
+  margin-bottom: 30px;
 }
