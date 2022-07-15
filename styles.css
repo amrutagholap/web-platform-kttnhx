@@ -262,18 +262,19 @@ header a {
 
 .free-quote {
   background-color: #e0e4e8;
-  padding: 50px;
 }
 .girl {
   height: 848px;
+  padding-top: 30px;
 }
 .left-sec {
   margin-left: 80px;
+  padding: 40px;
 }
-.left-sec h1{
+.left-sec h1 {
   margin-bottom: 40px;
 }
-.btn-primary1{
+.btn-primary1 {
   font-size: 14px;
   font-weight: 700;
   background-color: #015fc9 !important;
@@ -281,7 +282,7 @@ header a {
   color: #ffffff !important;
   margin-bottom: 50px;
 }
-.btn-primary2{
+.btn-primary2 {
   font-size: 14px;
   font-weight: 700;
   background-color: #16243d !important;
@@ -290,6 +291,33 @@ header a {
   margin-bottom: 50px;
 }
 /* form start here */
-.form-control{
+.form-control {
   margin-bottom: 30px;
+}
+.limit {
+  margin-top: 40px;
+}
+.limit p {
+  margin-left: 280px;
+  font-size: 16px;
+  font-weight: 700;
+}
+.progress {
+  margin-top: 20px;
+  font-size: 16px;
+  font-weight: 700;
+}
+.btn-primary6 {
+  margin-top: 30px;
+  padding: 17px 40px 17px;
+  font-size: 16px;
+  font-weight: 700;
+  background-color: #015fc9 !important;
+  color: #ffffff !important;
+}
+.insurance {
+  width: 1583px;
+  height: 265px;
+  bottom: 100px;
+  background-color: #015fc9;
 }
