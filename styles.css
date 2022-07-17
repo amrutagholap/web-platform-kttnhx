@@ -322,3 +322,43 @@ header a {
   bottom: 100px;
   background-color: #015fc9;
 }
+
+/* our experts start here */
+
+.expert{
+  text-align: center;
+  padding: 15px 0 30px;
+}
+.expert h1{
+  font-size: 45px;
+  font-weight: 700;
+  
+}
+.expert h6{
+  padding: 15px;
+  font-size: 16px;
+  font-weight: 700; 
+}
+.experties{
+ margin-left: 50px;
+
+}
+.experties p{
+  margin-left: 50px;
+  font-size: 14px;
+  font-weight: 700;
+  color: #015fc9;
+}
+.experties h6{
+  margin-left: 50px;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 30px;
+}
+.team{
+  padding: 50px 54px 30px;
+}
+.experties-bottom{
+  text-align: center;
+  padding: 60px 0 50px;
+}
