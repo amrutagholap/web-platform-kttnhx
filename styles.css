@@ -325,89 +325,96 @@ header a {
 
 /* our experts start here */
 
-.expert{
+.expert {
   text-align: center;
   padding: 15px 0 30px;
 }
-.expert h1{
+.expert h1 {
   font-size: 45px;
   font-weight: 700;
-  
 }
-.expert h6{
+.expert h6 {
   padding: 15px;
   font-size: 16px;
-  font-weight: 700; 
+  font-weight: 700;
 }
-.experties{
- margin-left: 50px;
-
+.experties {
+  margin-left: 50px;
 }
-.experties p{
+.experties p {
   margin-left: 50px;
   font-size: 14px;
   font-weight: 700;
   color: #015fc9;
 }
-.experties h6{
+.experties h6 {
   margin-left: 50px;
   font-size: 24px;
   font-weight: 700;
   line-height: 30px;
 }
-.team{
+.team {
   padding: 50px 54px 30px;
 }
-.experties-bottom{
+.experties-bottom {
   text-align: center;
   padding: 60px 0 50px;
 }
 /* tesmonils start here*/
-.rght{
+.rght {
   width: 50%;
 }
-.rght h1{
+.rght h1 {
   margin-bottom: 50px;
   font-size: 45px;
   font-weight: 700;
-  
 }
-.rght h6{
+.rght h6 {
   font-size: 18px;
   font-weight: 700;
 }
-.lft{
+.lft {
   font-size: 16px;
   color: #696e77;
   padding: 50px;
- 
 }
-.lft p{
+.lft p {
   padding-bottom: 50px;
 }
-.testmonils{
+.testmonils {
   padding: 80px 0 0 90px;
   background-color: #e0e4e8;
 }
-.box1{
+.box1 {
   width: 550px;
   height: 351px;
   background-color: rgb(255, 255, 255);
   padding: 70px;
   border-radius: 30px;
 }
-.text{
+.text {
   padding-left: 50px;
   padding-top: 40px;
 }
-.testmonils-img{
+.testmonils-img {
   padding-bottom: 40px;
 }
 /* recent news start here&*/
-.recent-news{
+.recent-news {
   padding: 90px;
   text-align: center;
+  margin-bottom: 120px;
 }
-.recent-news h1{
+.recent-news h1 {
   padding-bottom: 50px;
+}
+.insurance-box {
+  width: 385px;
+  padding: 25px 38px 32px;
+  border: 1px solid #e0e4e8;
+}
+.tracking-inner {
+  height: 184px;
+  background-color: #015fc9;
+  border-radius: 20px;
 }
