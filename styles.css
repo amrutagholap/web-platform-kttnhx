@@ -413,10 +413,31 @@ header a {
   padding: 25px 38px 32px;
   border: 1px solid #e0e4e8;
 }
+
 .tracking-inner {
   height: 184px;
   background-color: #015fc9;
   border-radius: 20px;
   color: #ffffff;
   padding: 60px;
+  margin-left: 30px;
+}
+/* bottom start here */
+.bottom{
+  background-color: #16243d;
+  padding: 100px;
+}
+.logo2{
+  padding-bottom: 25px;
+}
+.first-sectioon p{
+ 
+  color: #ffffff;
+}
+.footer-icon{
+  color: #fff;
+}
+.second-section{
+ 
+  color: #ffffff;
 }
