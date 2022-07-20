@@ -425,19 +425,9 @@ header a {
 /* bottom start here */
 .bottom{
   background-color: #16243d;
+  color: #ffffff;
   padding: 100px;
 }
 .logo2{
-  padding-bottom: 25px;
-}
-.first-sectioon p{
- 
-  color: #ffffff;
-}
-.footer-icon{
-  color: #fff;
-}
-.second-section{
- 
-  color: #ffffff;
+  margin-bottom: 30px;
 }
