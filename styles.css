@@ -423,11 +423,15 @@ header a {
   margin-left: 30px;
 }
 /* bottom start here */
-.bottom{
+.bottom {
   background-color: #16243d;
   color: #ffffff;
   padding: 100px;
 }
-.logo2{
+.logo2 {
   margin-bottom: 30px;
+}
+.insta-img {
+  padding-right: 8px;
+  padding-top: 8px;
 }
